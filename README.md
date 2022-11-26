@@ -1,3 +1,5 @@
+`there are sections missing in this document`
+
 # pretty-good-stealth-vpn
 A repository detailing research and development on VPN technologies including a survey of different methodologies. The intention for this repository is to protect the privacy of users and to prevent the internet from advancing surveillance technology. This repository was released to report how some spam, scammers, and hackers are utilizing stealth to be dishonest.
 
